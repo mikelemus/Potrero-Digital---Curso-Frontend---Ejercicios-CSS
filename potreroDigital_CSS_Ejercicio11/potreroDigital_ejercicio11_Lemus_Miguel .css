@@ -1,0 +1,18 @@
+h1 {
+    background-color: peru;
+    color: rgb(255, 251, 251);
+    font-family: Helvetica;
+    text-decoration-line: underline;
+}
+
+h2 {
+    background-color: rgb(10, 10, 119);
+    color: white;
+    font-family: sans-serif;
+}
+
+p {
+    font-weight: bold;
+    font-size: 16px;
+    color: rgb(4, 124, 10);
+}

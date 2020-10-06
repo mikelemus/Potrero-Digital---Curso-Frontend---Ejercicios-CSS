@@ -1,0 +1,9 @@
+.myDiv {
+    border: 5px outset black;
+    background-color: green;
+    text-align: center;
+    height: 100px;
+    width: 20%;
+    margin: 10px 6%;
+    padding: 9px;
+}
